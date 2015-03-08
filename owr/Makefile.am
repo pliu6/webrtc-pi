@@ -155,5 +155,3 @@ else
 Owr-0.1.gir.h:
 	cp -f `find $(top_srcdir) -name Owr-0.1.gir.h || echo "Owr-0.1.gir.h"` .
 endif
-
--include $(top_srcdir)/git.mk
